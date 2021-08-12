@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshikaMeghaSaha
 - 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently learning ...Linux and C++ and everything
+- 🌱 I’m currently learning ...everything and nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/ishika-saha-76a7721b6/
 
